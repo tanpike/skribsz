@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: cotes2020/jekyll-theme-chirpy
 author: Tan Pike
 title: TanBlog
 description: Tan sez stuff
