@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Tan Pike blogs about it
 ---
-
+Lorem Ipsum Dolor Sit
