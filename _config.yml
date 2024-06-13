@@ -2,3 +2,15 @@ remote_theme: sighingnow/jekyll-gitbook
 author: Tan Pike
 title: TanBlog
 description: Tan sez stuff
+
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
+
+collections:
+  pages:
+    output: true
+    sort_by: date
+    permalink: /:collection/:year-:month-:day-:title:output_ext
+    
