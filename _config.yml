@@ -1,5 +1,5 @@
-#remote_theme: sighingnow/jekyll-gitbook
-theme: minima
+remote_theme: sighingnow/jekyll-gitbook
+#theme: minima
 
 minima:
   skin: dark
@@ -12,8 +12,3 @@ collections:
   pages:
     output: true
     
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-
