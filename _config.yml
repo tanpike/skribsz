@@ -1,4 +1,9 @@
-remote_theme: sighingnow/jekyll-gitbook
+#remote_theme: sighingnow/jekyll-gitbook
+theme: minima
+
+minima:
+  skin: dark
+  
 author: Tan Pike
 title: TanBlog
 description: Tan sez stuff
