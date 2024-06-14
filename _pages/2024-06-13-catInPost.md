@@ -4,6 +4,7 @@ date: 2024-06-13
 author: muh author
 category: pages
 layout: post
+description: oh this is catInPost
 ---
 # this collection page
 is reaally something here
