@@ -6,8 +6,6 @@ description: Tan sez stuff
 collections:
   pages:
     output: true
-    sort_by: date
-    permalink: /:collection/:year-:month-:day-:title:output_ext
     
 toc:
     enabled: true
