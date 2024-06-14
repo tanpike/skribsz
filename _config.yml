@@ -12,8 +12,3 @@ toc:
     h_min: 1
     h_max: 3
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page
