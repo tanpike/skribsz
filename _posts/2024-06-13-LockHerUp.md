@@ -1,5 +1,5 @@
 ---
-Title: Lock Her Up!
+Title: "Lock Her Up!"
 Date: 2024-06-13
 ---
 "lock her up"
