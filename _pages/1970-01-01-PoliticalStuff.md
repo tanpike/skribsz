@@ -1,6 +1,6 @@
 ---
 title: "Political stuff"
-date: 2024-06-13
+date: 1970-01-01
 layout: post
 ---
 ### lock her up
