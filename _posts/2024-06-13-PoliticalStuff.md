@@ -9,7 +9,7 @@ layout: post
 [Trump saying it](https://x.com/Acyn/status/1317248938001403904)
 
 ### other stuff
-["I Hope Everyone Remembers!"](https://www.fox29.com/news/trump-takes-credit-for-covid-19-vaccine-i-hope-everyone-remembers)
+Trump on the Vax: ["I Hope Everyone Remembers!"](https://www.fox29.com/news/trump-takes-credit-for-covid-19-vaccine-i-hope-everyone-remembers)
 
 [Evangelicals reject Jesus teachings](https://www.newsweek.com/evangelicals-rejecting-jesus-teachings-liberal-talking-points-pastor-1818706)
 
