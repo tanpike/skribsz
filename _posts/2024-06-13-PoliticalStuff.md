@@ -1,6 +1,7 @@
 ---
-Title: "Political stuff"
-Date: 2024-06-13
+title: "Political stuff"
+date: 2024-06-13
+layout: post
 ---
 ### lock her up
 [Trump saying he didn't say it](https://x.com/atrupar/status/1797257168548253746)
