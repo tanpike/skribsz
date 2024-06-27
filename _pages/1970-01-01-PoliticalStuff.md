@@ -3,6 +3,11 @@ title: "Political stuff"
 date: 1970-01-01
 layout: post
 ---
+### nothing changes
+[economist Karl Polanyi](https://www.theguardian.com/books/article/2024/jun/23/the-greatest-thinker-youve-never-heard-of-expert-who-explained-hitlers-rise-is-finally-in-the-spotlight)
+
+*Polanyi had observed that, in the 1930s, wealthy Germans who saw the Nazi party as a “battering ram” against trade unions and socialists were persuaded to overlook Hitler’s antisemitism because it allowed the market system to flourish, Dale said. “In the same way that a lot of Americans who find Trump distasteful today will still vote for him, a lot of German elites said to themselves: we’re quite happy funding Hitler because his street fighters will help crush the trade unions, so that we can make more profits.”*
+
 ### lock her up
 [Trump saying he didn't say it](https://x.com/atrupar/status/1797257168548253746)
 
