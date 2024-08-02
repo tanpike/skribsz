@@ -3,6 +3,11 @@ title: "Political stuff"
 date: 1970-01-01
 layout: post
 ---
+### well Donnie, which is it?
+in 2024: *she was Indian all the way, and then all of a sudden she made a turn and she went – she became a Black person*
+
+in 2020: *"I'll note that Kamala Harris is a Black woman and he donated to her campaign," Trump campaign senior advisor said Tuesday in a call with reporters. "So I hope we can quash this racism argument."*
+
 ### nothing changes
 [economist Karl Polanyi](https://www.theguardian.com/books/article/2024/jun/23/the-greatest-thinker-youve-never-heard-of-expert-who-explained-hitlers-rise-is-finally-in-the-spotlight)
 
