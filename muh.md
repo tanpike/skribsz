@@ -1,7 +1,7 @@
 # this is muh new 2024-11-10
 ## a subhead
 ### beyond that
-ok so here we were in the third level. Isn't it grando?
+ok so here we were in the third level. Isn't it grand?
 
 ### another third
 yup here's another one.
