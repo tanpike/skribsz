@@ -3,6 +3,9 @@ title: "Political stuff"
 date: 1970-01-01
 layout: post
 ---
+#### "The Radical Left"? nope 
+* [who is actually behind political violence](https://azexpress.net/en/posts/509/none-of-the-last-31-political-attacks-was-by-anyone-from-the-left-not-one-we-can-count-them)
+
 #### Kamala was right about everything
 * [on Poland](https://www.thelondoneconomic.com/politics/kamala-harris-perfectly-predicted-trump-would-give-putin-freedom-to-attack-poland-397739/)
 * [on Poland](https://en.as.com/latest_news/kamala-harris-warned-everyone-what-putin-would-do-to-poland-if-trump-became-president-n/)
