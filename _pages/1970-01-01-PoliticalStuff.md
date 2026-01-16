@@ -4,24 +4,24 @@ date: 1970-01-01
 layout: post
 ---
 #### Epstein
-[Epstein distraction](https://files.catbox.moe/u2s4qk.gif)
-[dont forget](https://image.cagle.com/303671/845/-dont-forget.png)
+* [Epstein distraction](https://files.catbox.moe/u2s4qk.gif)
+* [dont forget](https://image.cagle.com/303671/845/-dont-forget.png)
 
 #### ICE
-[here lies good](https://image.cagle.com/303649/845/-trump-lies-about-renee-goods-killing.png)
-[failed to comply](https://image.cagle.com/303659/845/-american-just-ice.png)
-[internal bleeding](https://pomf2.lain.la/f/e4rr8xm.jpg)
+* [here lies good](https://image.cagle.com/303649/845/-trump-lies-about-renee-goods-killing.png)
+* [failed to comply](https://image.cagle.com/303659/845/-american-just-ice.png)
+* [internal bleeding](https://pomf2.lain.la/f/e4rr8xm.jpg)
 
 #### Charlie Kirk
-[if a democrat did this](https://files.catbox.moe/n56rs6.jpeg)
-[ck reeee](https://files.catbox.moe/ic9ifr.jpeg)
-[master debaters](https://files.catbox.moe/l7safb.png)
+* [if a democrat did this](https://files.catbox.moe/n56rs6.jpeg)
+* [ck reeee](https://files.catbox.moe/ic9ifr.jpeg)
+* [master debaters](https://files.catbox.moe/l7safb.png)
 
 #### not my problem
-[not my problem](https://files.catbox.moe/x8e54e.jpg)
+* [not my problem](https://files.catbox.moe/x8e54e.jpg)
 
 #### Tim Walz "scandal"
-[Walz somali scandal](https://files.catbox.moe/casueo.png)
+* [Walz somali scandal](https://files.catbox.moe/casueo.png)
 
 #### "The Radical Left"? nope 
 * [who is actually behind political violence](https://azexpress.net/en/posts/509/none-of-the-last-31-political-attacks-was-by-anyone-from-the-left-not-one-we-can-count-them)
