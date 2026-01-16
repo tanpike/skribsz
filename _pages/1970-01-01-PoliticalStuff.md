@@ -3,6 +3,16 @@ title: "Political stuff"
 date: 1970-01-01
 layout: post
 ---
+#### Epstein
+![Epstein distraction](https://files.catbox.moe/u2s4qk.gif)
+![dont forget](https://image.cagle.com/303671/845/-dont-forget.png)
+
+#### ICE
+
+
+#### not my problem
+![not my problem](https://files.catbox.moe/x8e54e.jpg)
+
 #### "The Radical Left"? nope 
 * [who is actually behind political violence](https://azexpress.net/en/posts/509/none-of-the-last-31-political-attacks-was-by-anyone-from-the-left-not-one-we-can-count-them)
 
@@ -32,6 +42,12 @@ layout: post
 * [Trump saying it](https://x.com/Acyn/status/1317248938001403904)
 
 #### other stuff
+ ![insuranceSux](https://files.catbox.moe/wmexac.webp)
+ 
+ or
+ 
+ <img src="https://files.catbox.moe/wmexac.webp">
+ 
 * [The Trump Economy cartoons](https://cagle.com/topic/trump-economy)
 * [Trump Tariffs affecting Wheat Farmers](https://www.facebook.com/reel/990047153155585)
 * Trump on the Vax: ["I Hope Everyone Remembers!"](https://www.fox29.com/news/trump-takes-credit-for-covid-19-vaccine-i-hope-everyone-remembers)
